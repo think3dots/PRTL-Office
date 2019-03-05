@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\PRTL-Me_VSTOManifest.xml
+C:\Users\steve\dev\Word-Add-in-DocumentAssembly-master\Word-Add-in-DocumentAssembly-master\WordAPIDocAssemblySample\bin\Debug\PRTL-Me_VSTO.debugapp

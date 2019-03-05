@@ -1,0 +1,7 @@
+False
+ddd4f5e2-25b8-4f45-9082-1353b08c3d435ce7d256-bd4c-49e7-becd-1ee0af55b2e5
+{30d9b262-57c1-4bc6-a7f3-7a252621fc3f}{3b4d92ad-1ae3-478e-a510-8a29a33032a1}
+{8e91c241-4ef4-4119-8146-4d3a096db2d7}
+1.0.0.0
+PRTL-Me_VSTO
+_layouts/15/

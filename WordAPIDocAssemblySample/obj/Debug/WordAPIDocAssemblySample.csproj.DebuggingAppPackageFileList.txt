@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\WordAPIDocAssemblySampleManifest.xml
+C:\Users\steve\dev\Word-Add-in-DocumentAssembly-master\Word-Add-in-DocumentAssembly-master\WordAPIDocAssemblySample\bin\Debug\WordAPIDocAssemblySample.debugapp
